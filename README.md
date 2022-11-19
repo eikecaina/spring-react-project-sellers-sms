@@ -5,7 +5,7 @@ A parte do FrontEnd conta com uma tela de vendas onde apresenta alguns dados do 
 
 ![image](https://user-images.githubusercontent.com/65792157/202031578-6fc45907-f2b5-4040-95db-3bde7acbfcba.png)
 
-A parte do BackEnd conta com alungs endpoints criados juntamente com o banco de dados para buscar vendas por datas minimas e maximas.
+A parte do BackEnd conta com alguns endpoints criados juntamente com o banco de dados para buscar vendas por datas minimas e maximas.
 
 ![image](https://user-images.githubusercontent.com/65792157/202838152-39516ac2-4c42-4489-bbe9-13fc061da174.png)
 ![image](https://user-images.githubusercontent.com/65792157/202838170-ac7e0660-86c1-4e14-80b2-32ea8f48e4cb.png)

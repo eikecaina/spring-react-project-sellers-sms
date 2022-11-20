@@ -2,8 +2,7 @@ Projeto criado em conjunto ao curso online de React e Spring com a criação de 
 
 A parte do FrontEnd conta com uma tela de vendas onde apresenta alguns dados do usuario podendo escolher filtrar os pedidos por datas minimas e maximas.
 
-![image](https://user-images.githubusercontent.com/65792157/202925067-7bf091d2-280a-4c37-9428-b61d4ff98fee.png)
-
+![Screenshot 2022-11-20 at 17-50-26 Vite React TS](https://user-images.githubusercontent.com/65792157/202925476-37fb3b15-b15d-4602-97f5-2ba47b239ec9.png)
 
 A parte do BackEnd conta com alguns endpoints criados juntamente com o banco de dados para buscar vendas por datas minimas e maximas.
 

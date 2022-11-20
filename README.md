@@ -1,9 +1,10 @@
-Projeto criado em conjunto ao curso online de React Sring Boot
+Projeto criado em conjunto ao curso online de React e Spring
 
 
 A parte do FrontEnd conta com uma tela de vendas onde apresenta alguns dados do usuario podendo escolher filtrar os pedidos por datas minimas e maximas.
 
-![image](https://user-images.githubusercontent.com/65792157/202031578-6fc45907-f2b5-4040-95db-3bde7acbfcba.png)
+![image](https://user-images.githubusercontent.com/65792157/202925067-7bf091d2-280a-4c37-9428-b61d4ff98fee.png)
+
 
 A parte do BackEnd conta com alguns endpoints criados juntamente com o banco de dados para buscar vendas por datas minimas e maximas.
 

@@ -1,5 +1,4 @@
-Projeto criado em conjunto ao curso online de React e Spring
-
+Projeto criado em conjunto ao curso online de React e Spring com a criação de uma API REST para consulta no banco de dados.
 
 A parte do FrontEnd conta com uma tela de vendas onde apresenta alguns dados do usuario podendo escolher filtrar os pedidos por datas minimas e maximas.
 
